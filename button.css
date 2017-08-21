@@ -1,0 +1,9 @@
+button {
+     background:none!important;
+     color:#800080 ;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     border-bottom:0px; 
+     cursor: pointer;
+}
